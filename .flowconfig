@@ -1,0 +1,10 @@
+[ignore]
+*.test.*
+<PROJECT_ROOT>/node_modules/bcryptjs/*
+
+[include]
+
+
+[libs]
+
+[options]
